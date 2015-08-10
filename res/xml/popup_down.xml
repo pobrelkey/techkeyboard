@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="@dimen/popup_key_height">
+    <Row android:rowEdgeFlags="top|bottom">
+        <Key
+            android:codes="-93"
+            android:keyLabel="PgDn"
+            android:keyEdgeFlags="left|right" />
+    </Row>
+</Keyboard>

@@ -1,16 +1,9 @@
-#SSH Keyboard
-SSH keyboard layout for AnySoftKeyboard app (BETA).
-A handy keyboard for terminal emulators, ssh clients (e.g. connectbot) and any application that requires full keyboard. The keyboard learns your frequent used commands as you use it (you need to add your common commands for auto suggestion.)
+# Technical Keyboard
 
-#Note
-* Install AnySoftKeyboard to use this keyboard layout.
-* Command auto-suggestion is only tested on VX ConnectBot.
-* Press and hold on 'Enter' key to use SSH as your default dictionary for this keyboard.
+*WORK IN PROGRESS*
+
+A four-row, shell-friendly keyboard layout for [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard).  There are other SSH/shell keyboard layouts out there (like [Hackers' Keyboard](https://github.com/bisermilanov/hackerskeyboard) or [ssh_anysoftkeyboard](https://github.com/pi3ch/ssh_anysoftkeyboard)), but for various reasons I decided to write my own.
+
+Many thanks to [Pedram Hayati](https://github.com/pi3ch/), whose [ssh_anysoftkeyboard](https://github.com/pi3ch/ssh_anysoftkeyboard) provided a starting point for this project.
 
 
-#Features
-* Command suggestion or auto completion
-* Arrow keys
-* CTRL key
-* Tab Key
-* Special characters as pop-ups

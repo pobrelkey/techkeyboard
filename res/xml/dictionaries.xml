@@ -9,10 +9,10 @@
 	description := some text you would like to add.
 	 -->
 	<Dictionary 
-		id="644cb75a-82c3-46ca-9521-00fcf4682a2b" 
+		id="a6c37a48-c789-4ad9-816e-eb9ec5c0aa17" 
 		locale="xx"
-		nameResId="@string/dictionary" 
+		nameResId="@string/dict_name" 
 		type="binary" 
 		dictionaryAssertName="ssh_dict.mp3" 
-		description="List of most frequenct linux terminal commands"/>
+		description="@string/dict_desc"/>
 </Dictionaries>

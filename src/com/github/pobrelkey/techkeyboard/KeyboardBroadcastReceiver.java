@@ -1,4 +1,4 @@
-package com.anysoftkeyboard.languagepack.SSH;
+package com.github.pobrelkey.techkeyboard;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
