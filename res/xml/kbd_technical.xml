@@ -28,15 +28,15 @@
             android:iconPreview="@drawable/sym_keyboard_feedback_tab"
             android:isModifier="true" 
             android:keyEdgeFlags="left"/>
-        <Key android:codes="97"  android:keyLabel="a" android:popupCharacters="@"/>
-        <Key android:codes="115" android:keyLabel="s" android:popupCharacters="#"/>
-        <Key android:codes="100" android:keyLabel="d" android:popupCharacters="$"/>
-        <Key android:codes="102" android:keyLabel="f" android:popupCharacters="%"/>
-        <Key android:codes="103" android:keyLabel="g" android:popupCharacters="&amp;"/>
-        <Key android:codes="104" android:keyLabel="h" android:popupCharacters="*"/>
-        <Key android:codes="106" android:keyLabel="j" android:popupCharacters="-"/>
-        <Key android:codes="107" android:keyLabel="k" android:popupCharacters="+"/>
-        <Key android:codes="108" android:keyLabel="l" android:popupCharacters="_"/>
+        <Key android:codes="97"  android:keyLabel="a" android:popupCharacters="=+"/>
+        <Key android:codes="115" android:keyLabel="s" android:popupCharacters=".,"/>
+        <Key android:codes="100" android:keyLabel="d" android:popupCharacters="|&amp;"/>
+        <Key android:codes="102" android:keyLabel="f" android:popupCharacters="&quot;'"/>
+        <Key android:codes="103" android:keyLabel="g" android:popupCharacters=";:"/>
+        <Key android:codes="104" android:keyLabel="h" android:popupCharacters="-_"/>
+        <Key android:codes="106" android:keyLabel="j" android:popupCharacters="/&#92;"/>
+        <Key android:codes="107" android:keyLabel="k" android:popupCharacters="!?"/>
+        <Key android:codes="108" android:keyLabel="l" android:popupCharacters="@%"/>
         <Key android:codes="-5"
             android:keyWidth="5%p"
             android:keyIcon="@drawable/sym_keyboard_delete"
@@ -53,19 +53,18 @@
             android:isModifier="true" 
             android:isSticky="true"
             android:keyEdgeFlags="left"/>
-        <Key android:codes="122" android:keyLabel="z" android:popupCharacters="!"/>
-        <Key android:codes="120" android:keyLabel="x" android:popupCharacters="&quot;"/>
-        <Key android:codes="99"  android:keyLabel="c" android:popupCharacters="'"/>
-        <Key android:codes="118" android:keyLabel="v" android:popupCharacters=":"/>
-        <Key android:codes="98"  android:keyLabel="b" android:popupCharacters=";"/>
-        <Key android:codes="110" android:keyLabel="n" android:popupCharacters="/"/>
-        <Key android:codes="109" android:keyLabel="m" android:popupCharacters="?"/>
+        <Key android:codes="122" android:keyLabel="z" android:popupCharacters="[]"/>
+        <Key android:codes="120" android:keyLabel="x" android:popupCharacters="{}"/>
+        <Key android:codes="99"  android:keyLabel="c" android:popupCharacters="()"/>
+        <Key android:codes="118" android:keyLabel="v" android:popupCharacters="&lt;&gt;"/>
+        <Key android:codes="98"  android:keyLabel="b" android:popupCharacters="#*"/>
+        <Key android:codes="110" android:keyLabel="n" android:popupCharacters="$&#163;&#8364;&#165;"/>
+        <Key android:codes="109" android:keyLabel="m" android:popupCharacters="~`^"/>
         <Key android:codes="-22"
             android:isRepeatable="true"
             android:keyLabel="&#x25b3;"
             android:isCursor="true"
-            android:isModifier="true"
-            android:popupKeyboard="@xml/popup_up"/>
+            android:isModifier="true"/>
         <Key
             android:codes="10"
             android:keyIcon="@drawable/sym_keyboard_return"
@@ -99,20 +98,17 @@
             android:keyLabel="&#x25c1;"
             android:isModifier="true"
             android:isRepeatable="true"
-            android:isCursor="true"
-            android:popupKeyboard="@xml/popup_left"/>
+            android:isCursor="true"/>
         <Key android:codes="-23"
             android:keyLabel="&#x25bd;" 
             android:isModifier="true"
             android:isRepeatable="true"
-            android:isCursor="true"
-            android:popupKeyboard="@xml/popup_down"/>
+            android:isCursor="true"/>
         <Key android:codes="-21"
             android:keyLabel="&#x25b7;"
             android:isModifier="true"
             android:isRepeatable="true"
             android:isCursor="true"
-            android:keyEdgeFlags="right"
-            android:popupKeyboard="@xml/popup_right"/>
+            android:keyEdgeFlags="right"/>
     </Row>
 </Keyboard>
