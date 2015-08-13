@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Keyboards>
-	<Keyboard 
-	id="3ef0399e-ce4b-40c1-bcd9-36708b3ecaf5" 
-	nameResId="@string/kbd_name"
-	layoutResId="@xml/kbd_technical"
-	landscapeResId="@xml/kbd_technical"
-	iconResId="@drawable/kbd_icon"
-	defaultDictionaryLocale="en" 
-	description="@string/kbd_desc"
-	index="1"/>
+    <Keyboard
+            id="3ef0399e-ce4b-40c1-bcd9-36708b3ecaf5"
+            nameResId="@string/kbd_name"
+            layoutResId="@xml/kbd_technical"
+            landscapeResId="@xml/kbd_technical"
+            iconResId="@drawable/kbd_icon"
+            defaultDictionaryLocale="en"
+            description="@string/kbd_desc"
+            index="1"/>
 </Keyboards>
