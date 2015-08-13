@@ -87,7 +87,7 @@
         <Key
                 android:codes="106"
                 android:keyLabel="j"
-                android:popupCharacters="/&#92;"/>
+                android:popupCharacters="/\\"/>
         <Key
                 android:codes="107"
                 android:keyLabel="k"
@@ -137,7 +137,7 @@
         <Key
                 android:codes="110"
                 android:keyLabel="n"
-                android:popupCharacters="$&#163;&#8364;&#165;"/>
+                android:popupCharacters="$&#163;&#8364;"/>
         <Key
                 android:codes="109"
                 android:keyLabel="m"
