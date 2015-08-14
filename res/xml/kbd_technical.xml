@@ -155,7 +155,7 @@
                 android:codes="10"
                 android:keyIcon="@drawable/sym_keyboard_return"
                 android:iconPreview="@drawable/sym_keyboard_feedback_return"
-                android:keyWidth="14.8"
+                android:keyWidth="14.8%p"
                 android:isModifier="true"
                 android:keyEdgeFlags="right"/>
     </Row>
