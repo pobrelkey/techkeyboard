@@ -209,7 +209,7 @@
                 android:isModifier="true"
                 android:isRepeatable="true"/>
         <Key
-                android:codes="32"
+                android:codes="-10"
                 android:keyWidth="6.8%p"
                 android:keyEdgeFlags="right"/>
     </Row>
