@@ -102,7 +102,7 @@
                 android:codes="-5"
                 android:keyIcon="@drawable/sym_keyboard_delete"
                 android:iconPreview="@drawable/sym_keyboard_feedback_delete"
-                android:keyWidth="8%p"
+                android:keyWidth="7.6%p"
                 android:isModifier="true"
                 android:isRepeatable="true"
                 android:keyEdgeFlags="right"/>
