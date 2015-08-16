@@ -167,6 +167,16 @@
                 android:isModifier="true"
                 android:keyEdgeFlags="left"/>
         <Key
+                android:codes="-11"
+                android:keyLabel="Ctrl"
+                android:keyWidth="7.6%p"
+                android:isModifier="true"/>
+        <Key
+                android:codes="-6"
+                android:keyLabel="Alt"
+                android:keyWidth="7.6%p"
+                android:isModifier="true"/>
+        <Key
                 android:codes="46"
                 android:keyLabel="."
                 android:keyWidth="8%p"
@@ -177,18 +187,8 @@
                 android:keyWidth="8%p"
                 android:popupCharacters="_"/>
         <Key
-                android:codes="-11"
-                android:keyLabel="Ctrl"
-                android:keyWidth="6%p"
-                android:isModifier="true"/>
-        <Key
-                android:codes="-6"
-                android:keyLabel="Alt"
-                android:keyWidth="6%p"
-                android:isModifier="true"/>
-        <Key
                 android:codes="32"
-                android:keyWidth="33.2%p"
+                android:keyWidth="30%p"
                 android:isRepeatable="true"/>
         <Key
                 android:codes="-20"
